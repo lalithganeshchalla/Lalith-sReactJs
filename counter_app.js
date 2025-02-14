@@ -2,6 +2,7 @@ const incrementBtn = document.getElementById('increment');
 const resetBtn = document.getElementById('reset');
 const decrementBtn = document.getElementById('decrement');
 
+//comment
 let counter = 0;
 
 incrementBtn.addEventListener('click', incrementCounter);
